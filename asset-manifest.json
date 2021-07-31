@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/foot-recipe-app-reactjs/static/css/main.41d5135d.chunk.css",
+    "main.js": "/foot-recipe-app-reactjs/static/js/main.25ba2005.chunk.js",
+    "main.js.map": "/foot-recipe-app-reactjs/static/js/main.25ba2005.chunk.js.map",
+    "runtime-main.js": "/foot-recipe-app-reactjs/static/js/runtime-main.5f9dcd2b.js",
+    "runtime-main.js.map": "/foot-recipe-app-reactjs/static/js/runtime-main.5f9dcd2b.js.map",
+    "static/js/2.47c3bf78.chunk.js": "/foot-recipe-app-reactjs/static/js/2.47c3bf78.chunk.js",
+    "static/js/2.47c3bf78.chunk.js.map": "/foot-recipe-app-reactjs/static/js/2.47c3bf78.chunk.js.map",
+    "static/js/3.eb7c6920.chunk.js": "/foot-recipe-app-reactjs/static/js/3.eb7c6920.chunk.js",
+    "static/js/3.eb7c6920.chunk.js.map": "/foot-recipe-app-reactjs/static/js/3.eb7c6920.chunk.js.map",
+    "index.html": "/foot-recipe-app-reactjs/index.html",
+    "static/css/main.41d5135d.chunk.css.map": "/foot-recipe-app-reactjs/static/css/main.41d5135d.chunk.css.map",
+    "static/js/2.47c3bf78.chunk.js.LICENSE.txt": "/foot-recipe-app-reactjs/static/js/2.47c3bf78.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5f9dcd2b.js",
+    "static/js/2.47c3bf78.chunk.js",
+    "static/css/main.41d5135d.chunk.css",
+    "static/js/main.25ba2005.chunk.js"
+  ]
+}
